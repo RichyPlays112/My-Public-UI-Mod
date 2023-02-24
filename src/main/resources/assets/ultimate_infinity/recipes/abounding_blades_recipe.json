@@ -1,0 +1,24 @@
+{
+  "group": "ultimate_infinity",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "ultimate_infinity:compressed_binoxium"
+    },
+    "4": {
+      "item": "ultimate_infinity:shard_containment_gem"
+    },
+    "6": {
+      "item": "ultimate_infinity:masteric_rod"
+    }
+  },
+  "result": {
+    "item": "ultimate_infinity:aboundingblades",
+    "count": 1
+  }
+}

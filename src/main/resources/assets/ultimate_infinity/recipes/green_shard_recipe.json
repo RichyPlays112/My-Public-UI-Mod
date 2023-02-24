@@ -1,0 +1,50 @@
+{
+  "group": "ultimate_infinity",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "1": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "7": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "8": {
+      "item": "minecraft:dye",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "ultimate_infinity:green_shard",
+    "count": 1
+  }
+}

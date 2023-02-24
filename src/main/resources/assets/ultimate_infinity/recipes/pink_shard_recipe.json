@@ -1,0 +1,50 @@
+{
+  "group": "ultimate_infinity",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "1": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "7": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "8": {
+      "item": "minecraft:dye",
+      "data": 9
+    }
+  },
+  "result": {
+    "item": "ultimate_infinity:pink_shard",
+    "count": 1
+  }
+}

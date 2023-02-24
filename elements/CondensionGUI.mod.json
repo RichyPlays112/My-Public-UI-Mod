@@ -1,0 +1,77 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 204,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 19,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 159,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowgray.png",
+          "use1Xscale": false,
+          "name": "arrowgray.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 249,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Condension Table",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Condension Table",
+          "x": 173,
+          "y": 32
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Compress",
+          "onClick": {
+            "name": "Condense"
+          },
+          "width": 65,
+          "height": 20,
+          "name": "Compress",
+          "x": 179,
+          "y": 98
+        }
+      }
+    ]
+  }
+}

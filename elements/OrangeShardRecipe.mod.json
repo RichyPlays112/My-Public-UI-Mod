@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": "CUSTOM:BlankShard"
+      },
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": "Items.DYE#14"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OrangeShard"
+    },
+    "name": "orange_shard_recipe",
+    "namespace": "mod"
+  }
+}

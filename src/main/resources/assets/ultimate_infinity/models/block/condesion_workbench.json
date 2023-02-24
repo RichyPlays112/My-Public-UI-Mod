@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ultimate_infinity:blocks/condensebott",
+    "up": "ultimate_infinity:blocks/condensiontop",
+    "north": "ultimate_infinity:blocks/condensionside",
+    "east": "ultimate_infinity:blocks/condensionside",
+    "south": "ultimate_infinity:blocks/condensionside",
+    "west": "ultimate_infinity:blocks/condensionside",
+    "particle": "ultimate_infinity:blocks/condensebott"
+  }
+}

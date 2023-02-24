@@ -1,0 +1,40 @@
+{
+  "group": "ultimate_infinity",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:coal_block"
+    },
+    "3": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "6": {
+      "item": "minecraft:coal_block"
+    },
+    "7": {
+      "item": "minecraft:coal",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "ultimate_infinity:blank_shard",
+    "count": 1
+  }
+}

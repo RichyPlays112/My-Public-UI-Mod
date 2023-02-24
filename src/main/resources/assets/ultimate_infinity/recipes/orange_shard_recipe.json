@@ -1,0 +1,50 @@
+{
+  "group": "ultimate_infinity",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "1": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "4": {
+      "item": "ultimate_infinity:blank_shard"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "7": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "8": {
+      "item": "minecraft:dye",
+      "data": 14
+    }
+  },
+  "result": {
+    "item": "ultimate_infinity:orange_shard",
+    "count": 1
+  }
+}
